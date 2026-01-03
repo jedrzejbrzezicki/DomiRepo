@@ -1,0 +1,3 @@
+[build]
+  # Directory to publish (root of the project since index.html is there)
+  publish = "."
